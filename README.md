@@ -1,4 +1,4 @@
-# SQL-PROJECT-CARDATA
+# SQL-PROJECT-CARDATA ANALYSIS
 
 
 This is a mini project on Second Hand Car Dealer Analysis using MYSQL.
